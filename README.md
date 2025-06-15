@@ -69,7 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-###Note
+### `Note`
 
 Because I built this project using my own implemented API on localhost, this project cannot fetch any data from the API. For reference, I provide some images of this React web
 
@@ -77,6 +77,6 @@ Because I built this project using my own implemented API on localhost, this pro
 
 ![image](https://github.com/user-attachments/assets/61af92a4-1f04-4573-9eab-b0a7aba0f49c)
 
-#This project is far from finish...........!
+# `This project is far from finish...........!`
 
 
